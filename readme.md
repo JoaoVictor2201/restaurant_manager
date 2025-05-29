@@ -4,17 +4,6 @@
 
 Projeto desenvolvido para a matéria de **_Programação Orientada a Objetos_**, implementando um sistema completo de gerenciamento para restaurantes.
 
-## 📋 Índice
-- [Descrição](#descrição)
-- [Equipe](#equipe)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação e Execução](#instalação-e-execução)
-- [Guia de Uso](#guia-de-uso)
-- [Estrutura do Banco de Dados](#estrutura-do-banco-de-dados)
-
 ## 📝 Descrição
 
 Este é um sistema de gerenciamento de restaurante desenvolvido em **Python**, utilizando **SQLAlchemy** como ORM (Mapeamento Objeto-Relacional) e uma interface via **linha de comando (CLI)**. O sistema permite o gerenciamento completo das operações básicas de um restaurante, incluindo gestão de funcionários, mesas, pedidos e muito mais.
