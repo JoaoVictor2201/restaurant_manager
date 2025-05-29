@@ -1,5 +1,7 @@
 # Sistema de Gerenciamento de Restaurante
 
+![Imagem da UML](https://drive.google.com/file/d/1hteTnRWdvp2HTAUttbN2HYIQWVkG_RjU/view)
+
 Projeto desenvolvido para a matéria de **_Programação Orientada a Objetos_**, implementando um sistema completo de gerenciamento para restaurantes.
 
 ## 📋 Índice
@@ -20,13 +22,9 @@ Este é um sistema de gerenciamento de restaurante desenvolvido em **Python**, u
 ## 👥 Equipe
 
 - **Ana Laura Brandão** (RA: 2402680)
-  - Papel: Desenvolvimento do módulo de funcionários
 - **Gustavo Bomfim** (RA: 2403139)
-  - Papel: Desenvolvimento do módulo de pedidos
 - **João Victor França** (RA: 2402779)
-  - Papel: Desenvolvimento do módulo de mesas
 - **Gabriel Gonçalves** (RA: 2402912)
-  - Papel: Desenvolvimento da interface CLI
 
 ## 🛠️ Tecnologias Utilizadas
 
